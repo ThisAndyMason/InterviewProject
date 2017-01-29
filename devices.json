@@ -1,0 +1,78 @@
+[{	"brand":"Mockia",
+	"model":"5800",
+	"formFactor":"CANDYBAR",
+	"attributes":[
+		{"name":"Screen Size","value":"128mm"}
+	]},
+{	
+	"brand":"Phony",
+	"model":"X11",
+	"formFactor":"SMARTPHONE",
+	"attributes":[
+		{"name":"Bluetooth","value":"0.1"},
+		{"name":"Raspberry","value":"Pi"}
+	]},
+{
+	"brand":"Samwrong",
+	"model":"Universe A1",
+	"formFactor":"PHABLET",
+	"attributes":[
+		{"name":"Frequencies","value":"GSM,LTE,Kenneth"},
+		{"name":"Memory","value":"333Mb"},
+		{"name":"Teasmaid","value":"true"}
+	]},
+{
+	"brand":"test",
+	"model":"device1",
+	"formFactor":"PHABLET",
+	"attributes":[
+		{"name":"Frequencies","value":"GSM,LTE,Kenneth"},
+		{"name":"Memory","value":"333Mb"},
+		{"name":"Teasmaid","value":"true"}
+	]},
+{
+	"brand":"test",
+	"model":"device1",
+	"formFactor":"PHABLET",
+	"attributes":[
+		{"name":"Frequencies","value":"GSM,LTE,Kenneth"},
+		{"name":"Memory","value":"333Mb"},
+		{"name":"Teasmaid","value":"true"}
+	]},
+{
+	"brand":"test",
+	"model":"device2",
+	"formFactor":"BRICK",
+	"attributes":[
+		{"name":"Frequencies","value":"GSM,LTE,Kenneth"},
+		{"name":"Memory","value":"333Mb"},
+		{"name":"Teasmaid","value":"true"}
+	]},
+{
+	"brand":"test",
+	"model":"device3",
+	"formFactor":"PHABLET",
+	"attributes":[
+		{"name":"Frequencies","value":"GSM,LTE,Kenneth"},
+		{"lame":"Memory","value":"333Mb"},
+		{"name":"Teasmaid","value":"true"}
+	]},
+	{
+	"brand":"test",
+	"model":"device4",
+	"formFactor":"PHABLET",
+	"attributes":[
+		{"name":"Frequencies","value":"GSM,LTE,Kenneth"},
+		{"name":"SurelyThisIsOver20Characters,AFewMoreJustToMakeSure","value":"333Mb"},
+		{"name":"Teasmaid","value":"true"}
+	]},
+	{
+	"brand":"",
+	"model":"device5",
+	"formFactor":"PHABLET",
+	"attributes":[
+		{"name":"Frequencies","value":"GSM,LTE,Kenneth"},
+		{"name":"SurelyThisIsOver20Characters,AFewMoreJustToMakeSure","value":"333Mb"},
+		{"name":"Teasmaid","value":"true"}
+	]}
+]
