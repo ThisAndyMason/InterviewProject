@@ -35,6 +35,10 @@ Features such as search hints and suggestions could be an improvement - however,
 
 For a larger device list i would look to use more intelligent searching rather than a loop through all devices. This might including storing the data in an indexed format and using something like a binary search to find the appropriate data.
 
+Improve UI for when not viewing in full window.
+
 
 
 Please open index.html in browser and ensure the html and js file are in the same location. The JSON file is pulled from the GitHub location.
+
+Tested in Internet Explorer 11 and Chrome Version 55.0.2883.87. Both in full screen.
